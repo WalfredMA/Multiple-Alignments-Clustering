@@ -30,5 +30,5 @@ Multiple Alignments Clustering: selected most representative insertion from all 
 
 
 <p>
-    <img src="https://github.com/WalfredMA/Multiple-Alignments-Clustering/blob/master/clustering.png" width="500" height= auto/>
+    <img src="https://github.com/WalfredMA/Multiple-Alignments-Clustering/blob/master/clustering.png" width="1000" height= auto/>
 </p>
