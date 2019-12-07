@@ -30,5 +30,5 @@ Multiple Alignments Clustering: selected most representative insertion from all 
 
 
 <p>
-    <img src="https://github.com/WalfredMA/Deep_Learning_Phasing/blob/master/flowchart.png" width="1000" height= auto/>
+    <img src="https://github.com/WalfredMA/Multiple-Alignments-Clustering/blob/master/clustering.pdf" width="1000" height= auto/>
 </p>
