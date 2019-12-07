@@ -1,6 +1,6 @@
 # Multiple-Alignments-Clustering
 
--	Multiple Alignments Clustering: selected most representative insertion from all overlap SVs. 
+Multiple Alignments Clustering: selected most representative insertion from all overlap SVs. 
 
 
 
@@ -18,14 +18,14 @@
 
 4.	A cluster cycle use to cluster all SVs:
 
-  a.	Calculate a global score for every insertion in a component based on multiple alignment results.
+        a.-Calculate a global score for every insertion in a component based on multiple alignment results.
   
-  b.	Pick the one with highest global score as the new template for new cluster. 
+        b.-Pick the one with highest global score as the new template for new cluster. 
   
-  c.	Align rest SVs to this new template and get pairwise scores. 
+        c.-Align rest SVs to this new template and get pairwise scores. 
   
-  d.	Assign SV to this cluster if it passes the cutoff for pairwise alignment score. 
+        d.-Assign SV to this cluster if it passes the cutoff for pairwise alignment score. 
   
-  e.	For all SVs that do not pass the cutoff, repeat a new cycle. 
+        e.-For all SVs that do not pass the cutoff, repeat a new cycle. 
 
 
