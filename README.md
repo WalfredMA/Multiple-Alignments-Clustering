@@ -1,5 +1,8 @@
 # Multiple-Alignments-Clustering
 
+//  Created by Walfred MA in 2019, wangfei.ma@ucsf.edu.
+//  Copyright © 2019 UCSF-Kwoklab. All rights reserved.
+
 Multiple Alignments Clustering: selected most representative insertion from all overlap SVs. 
 
 
