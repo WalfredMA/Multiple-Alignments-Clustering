@@ -6,7 +6,6 @@ import pandas as pd
 import collections as cl
 import argparse
 import multiprocessing as mul
-from wm_tools import metapath
 
 manager = mul.Manager()
 
